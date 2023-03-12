@@ -1,8 +1,8 @@
 # zihanzhao
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1a/f1/c6/1af1c62ecf24b3d90a9f4f205914e27e.jpg">
 
 <h1 align="center">Hi 👋, I'm Zihan Zhao</h1>
 <h3 align="center">A new data science learner from China</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1a/f1/c6/1af1c62ecf24b3d90a9f4f205914e27e.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zihanzhao1029&label=Profile%20views&color=0e75b6&style=flat" alt="zihanzhao1029" /> </p>
 
